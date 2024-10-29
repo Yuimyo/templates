@@ -1,0 +1,15 @@
+{
+  "name": "basic_ssr",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "front": "npm -w frontend run dev",
+    "lint": "npm -w frontend run lint"
+  },
+  "author": "yuimyo",
+  "license": "MIT",
+  "devDependencies": {},
+  "workspaces": [
+    "frontend"
+  ]
+}

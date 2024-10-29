@@ -1,0 +1,3 @@
+# Web Templates
+
+- basic1: TypeScript, React, Next.js, Rust, GraphQL, etc...

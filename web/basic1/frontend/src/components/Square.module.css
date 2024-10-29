@@ -1,0 +1,9 @@
+.content {
+    background-color: var(--blue);
+    width: 20vw;
+    height: 20vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 2vw;
+}
