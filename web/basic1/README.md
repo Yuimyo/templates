@@ -10,8 +10,8 @@
 
 ## Backend
 
-- Rust
-- GraphQL
+- Rust 🚧
+- GraphQL 🚧
 
 ## Others
 
