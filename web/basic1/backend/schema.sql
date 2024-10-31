@@ -1,0 +1,5 @@
+CREATE TABLE memo (
+    id INTEGER PRIMARY KEY AUTOINCREMENT, 
+    name TEXT NOT NULL UNIQUE,
+    value TEXT 
+);
