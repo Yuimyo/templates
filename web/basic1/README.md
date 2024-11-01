@@ -1,17 +1,19 @@
 # Basic SSR Web
 
-🚧 ...工事中... 🚧
+生SQLクエリ、生GraphQLクエリが書けるナチュラル風味なWebサイトテンプレート。
 
 ## Frontend
 
 - TypeScript
 - React
 - Next.js
+- GraphQL (urql)
 
 ## Backend
 
-- Rust 🚧
-- GraphQL 🚧
+- Rust
+- GraphQL (async-graphql)
+- SQLite
 
 ## Others
 
